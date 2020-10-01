@@ -40,6 +40,7 @@
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
+        <!-- Sample AdMob App ID: ca-app-pub-7492626351128223~3659159398-->
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />

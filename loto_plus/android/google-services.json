@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460131995937",
+    "firebase_url": "https://lotoplus-2c874.firebaseio.com",
+    "project_id": "lotoplus-2c874",
+    "storage_bucket": "lotoplus-2c874.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460131995937:android:76a227d1f2b3ff46c8ae60",
+        "android_client_info": {
+          "package_name": "com.example.loto_plus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460131995937-5kj7cukjb410u0k8va7vc1d842lga1me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDSM0bLY881oAOO6DgCa698IeWssvD4ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460131995937-5kj7cukjb410u0k8va7vc1d842lga1me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
